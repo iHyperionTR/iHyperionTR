@@ -14,6 +14,6 @@
 ## GITHUB
 
 ![iHyperion's github stats](https://github-readme-stats.vercel.app/api?username=iHyperionTR&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iHyperionTR&layout=compact&text_color=FF9DD9&title_color=FF9DD9&bg_color=141321)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iHyperionTR)](https://github.com/anuraghazra/github-readme-stats)
 
 
