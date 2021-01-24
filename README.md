@@ -11,7 +11,7 @@
 
 **EN:** Hi everyone, I am Metehan [HyperTeam Founder](https://discord.gg/bgpTcX5akq). I'm here because I want to share the works I love with you!
 
-## GITHUB
+## iHyperion
 
 ![iHyperion's github stats](https://github-readme-stats.vercel.app/api?username=iHyperionTR&show_icons=true&theme=dark)
 
