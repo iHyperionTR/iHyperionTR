@@ -7,9 +7,9 @@
  <a href="https://www.instagram.com/metehan.qx" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 
-**TR:** Herkese selam ben Metehan[HyperTeam Kurucusu](https://discord.gg/bgpTcX5akq). Sevdiğim işleri sizlerle paylaşmak istediğim için buradayım!
+**TR:** Herkese selam ben Metehan[GrawTeam Kurucusu](https://discord.gg/bgpTcX5akq). Sevdiğim işleri sizlerle paylaşmak istediğim için buradayım!
 
-**EN:** Hi everyone, I am Metehan [HyperTeam Founder](https://discord.gg/bgpTcX5akq). I'm here because I want to share the works I love with you!
+**EN:** Hi everyone, I am Metehan [GrawTeam Founder](https://discord.gg/bgpTcX5akq). I'm here because I want to share the works I love with you!
 
 **Languages and Tools:**  
 
