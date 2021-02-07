@@ -18,6 +18,6 @@
 
 ## iHyperion
 
-![iHyperion's github stats](https://github-readme-stats.vercel.app/api?username=iHyperionTR&show_icons=true&theme=dark)
+![iHyperion's github stats](https://github-readme-stats.vercel.app/api?username=grawtyTR&show_icons=true&theme=dark)
 
 
