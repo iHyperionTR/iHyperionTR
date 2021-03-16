@@ -20,4 +20,6 @@
 
 ![iHyperion's github stats](https://github-readme-stats.vercel.app/api?username=grawty&show_icons=true&theme=dark)
 
+## Spotify
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31pngfdpn5zzu3h7czin7ns3m6va&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=31pngfdpn5zzu3h7czin7ns3m6va&redirect=true)
