@@ -23,5 +23,3 @@
 ## Spotify
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31pngfdpn5zzu3h7czin7ns3m6va&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=31pngfdpn5zzu3h7czin7ns3m6va&redirect=true)
-
-[spreaker type=player resource="show_id=4861802" width="100%" height="200px" theme="light" playlist="false" playlist-continuous="false" autoplay="false" live-autoplay="false" chapters-image="true" episode-image-position="right" hide-logo="false" hide-likes="false" hide-comments="false" hide-sharing="false" hide-download="true"]
